@@ -6,8 +6,7 @@
 
 ## 메뉴
 
-> 메뉴판을 보고싶다면: [고암길 메뉴판](https://zerosheepmoo.github.io/goamgilcafe/menu.html)  
-> 저 메뉴판을 깃허브에서 보고싶다면: [고암길 메뉴판 레포지토리](https://github.com/zerosheepmoo/goamgilcafe)
+> 메뉴판을 보고싶다면: [고암길 메뉴판](https://zerosheepmoo.github.io/goamgilcafe/menu.html) 또는 [고암길 메뉴판 레포지토리](https://github.com/zerosheepmoo/goamgilcafe)
 
 ### 커피 (6/18)
 
